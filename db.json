@@ -31,7 +31,7 @@
       "gender": "male",
       "posizione": 1,
       "insfida": true,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 2
     },
     {
@@ -45,7 +45,7 @@
       "gender": "male",
       "posizione": 3,
       "insfida": true,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 3
     },
     {
@@ -59,7 +59,7 @@
       "gender": "male",
       "posizione": 4,
       "insfida": false,
-      "fuorigioco":true,
+      "fuorigioco": true,
       "id": 4
     },
     {
@@ -73,7 +73,7 @@
       "gender": "male",
       "posizione": 2,
       "insfida": true,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 5
     },
     {
@@ -87,7 +87,7 @@
       "gender": "male",
       "posizione": 7,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 6
     },
     {
@@ -101,7 +101,7 @@
       "gender": "male",
       "posizione": 6,
       "insfida": true,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 7
     },
     {
@@ -114,8 +114,8 @@
       "address": "",
       "gender": "male",
       "posizione": 8,
-      "insfida": false,
-      "fuorigioco":false,
+      "insfida": true,
+      "fuorigioco": false,
       "id": 8
     },
     {
@@ -129,7 +129,7 @@
       "gender": "male",
       "posizione": 5,
       "insfida": true,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 9
     },
     {
@@ -143,7 +143,7 @@
       "gender": "male",
       "posizione": 9,
       "insfida": true,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 10
     },
     {
@@ -157,7 +157,7 @@
       "gender": "male",
       "posizione": 11,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 11
     },
     {
@@ -171,7 +171,7 @@
       "gender": "male",
       "posizione": 12,
       "insfida": true,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 12
     },
     {
@@ -185,7 +185,7 @@
       "gender": "male",
       "posizione": 10,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 13
     },
     {
@@ -199,7 +199,7 @@
       "gender": "female",
       "posizione": 13,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 14
     },
     {
@@ -212,8 +212,8 @@
       "address": "",
       "gender": "male",
       "posizione": 14,
-      "insfida": false,
-      "fuorigioco":false,
+      "insfida": true,
+      "fuorigioco": false,
       "id": 15
     },
     {
@@ -226,8 +226,8 @@
       "address": "",
       "gender": "male",
       "posizione": 15,
-      "insfida": false,
-      "fuorigioco":false,
+      "insfida": true,
+      "fuorigioco": false,
       "id": 16
     },
     {
@@ -240,8 +240,8 @@
       "address": "",
       "gender": "male",
       "posizione": 17,
-      "insfida": false,
-      "fuorigioco":false,
+      "insfida": true,
+      "fuorigioco": false,
       "id": 17
     },
     {
@@ -255,7 +255,7 @@
       "gender": "male",
       "posizione": 18,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 18
     },
     {
@@ -269,7 +269,7 @@
       "gender": "male",
       "posizione": 19,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 19
     },
     {
@@ -283,7 +283,7 @@
       "gender": "male",
       "posizione": 20,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 20
     },
     {
@@ -297,7 +297,7 @@
       "gender": "male",
       "posizione": 21,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 21
     },
     {
@@ -311,7 +311,7 @@
       "gender": "male",
       "posizione": 16,
       "insfida": true,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 22
     },
     {
@@ -323,9 +323,9 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 22,
+      "posizione": 23,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 23
     },
     {
@@ -337,9 +337,9 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 24,
-      "insfida": true,
-      "fuorigioco":false,
+      "posizione": 22,
+      "insfida": false,
+      "fuorigioco": false,
       "id": 24
     },
     {
@@ -351,9 +351,9 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 23,
+      "posizione": 24,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 25
     },
     {
@@ -367,7 +367,7 @@
       "gender": "male",
       "posizione": 25,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 26
     },
     {
@@ -381,7 +381,7 @@
       "gender": "male",
       "posizione": 26,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 27
     },
     {
@@ -395,7 +395,7 @@
       "gender": "male",
       "posizione": 27,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 28
     },
     {
@@ -407,9 +407,9 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 28,
-      "insfida": true,
-      "fuorigioco":false,
+      "posizione": 29,
+      "insfida": false,
+      "fuorigioco": false,
       "id": 29
     },
     {
@@ -421,9 +421,9 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 29,
+      "posizione": 28,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 30
     },
     {
@@ -435,9 +435,9 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 30,
+      "posizione": 31,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 31
     },
     {
@@ -449,9 +449,9 @@
       "role": "player",
       "address": "",
       "gender": "female",
-      "posizione": 31,
+      "posizione": 30,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 32
     },
     {
@@ -465,7 +465,7 @@
       "gender": "male",
       "posizione": 32,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 34
     },
     {
@@ -479,7 +479,7 @@
       "gender": "male",
       "posizione": 33,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 35
     },
     {
@@ -493,7 +493,7 @@
       "gender": "male",
       "posizione": 34,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 36
     },
     {
@@ -507,7 +507,7 @@
       "gender": "male",
       "posizione": 36,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": false,
       "id": 37
     },
     {
@@ -521,7 +521,7 @@
       "gender": "male",
       "posizione": 35,
       "insfida": false,
-      "fuorigioco":false,
+      "fuorigioco": true,
       "id": 38
     }
   ],
@@ -563,15 +563,16 @@
   ],
   "challenge": [
     {
-      "datacreate": "10-2-2022",
-      "datasfida": "15/02/2022",
-      "orasfida":"",
+      "datacreate": "10/02/2002",
+      "datasfida": "15/02/2002",
+      "orasfida": "",
       "players": [
         {
           "idp1": 0,
           "p1": "Admin Admin"
         },
         {
+          "idp2": 0,
           "p2": "Admin Admin"
         }
       ],
@@ -579,12 +580,13 @@
       "set1": "0-0",
       "set2": "0-0",
       "set3": "0-0",
+      "finalplayer":null,
       "id": 1
     },
     {
       "datacreate": "13/9/2023",
       "datasfida": "13/09/2023",
-      "orasfida":"",
+      "orasfida": "",
       "players": [
         {
           "idp1": 38,
@@ -599,12 +601,13 @@
       "set1": "3-6",
       "set2": "3-6",
       "set3": "0-0",
+      "finalplayer":37,
       "id": 2
     },
     {
       "datacreate": "15/9/2023",
       "datasfida": "17/09/2023",
-      "orasfida":"",
+      "orasfida": "",
       "players": [
         {
           "idp1": 6,
@@ -619,12 +622,13 @@
       "set1": "3-9",
       "set2": "0-0",
       "set3": "0-0",
+      "finalplayer":5,
       "id": 3
     },
     {
       "datacreate": "15/9/2023",
       "datasfida": "15/09/2023",
-      "orasfida":"",
+      "orasfida": "17.30",
       "players": [
         {
           "idp1": 26,
@@ -639,12 +643,13 @@
       "set1": "3-6",
       "set2": "0-6",
       "set3": "0-0",
+      "finalplayer":22,
       "id": 4
     },
     {
       "datacreate": "16/9/2023",
       "datasfida": "19/09/2023",
-      "orasfida":"",
+      "orasfida": "",
       "players": [
         {
           "idp1": 9,
@@ -659,12 +664,13 @@
       "set1": "8-5",
       "set2": "0-0",
       "set3": "0-0",
+      "finalplayer":9,
       "id": 5
     },
     {
       "datacreate": "16/9/2023",
       "datasfida": "21/09/2023",
-      "orasfida":"",
+      "orasfida": "16.30",
       "players": [
         {
           "idp1": 17,
@@ -676,15 +682,16 @@
         }
       ],
       "status": "complete",
-      "set1": "9-0",
+      "set1": "9-2",
       "set2": "0-0",
       "set3": "0-0",
+      "finalplayer":17,
       "id": 6
     },
     {
       "datacreate": "16/9/2023",
       "datasfida": "17/09/2023",
-      "orasfida":"",
+      "orasfida": "",
       "players": [
         {
           "idp1": 24,
@@ -699,12 +706,13 @@
       "set1": "4-6",
       "set2": "2-3",
       "set3": "0-0",
+      "finalplayer":22,
       "id": 7
     },
     {
       "datacreate": "18/9/2023",
       "datasfida": "23/09/2023",
-      "orasfida":"",
+      "orasfida": "17.30",
       "players": [
         {
           "idp1": 29,
@@ -715,16 +723,17 @@
           "p2": "Andrea Russo "
         }
       ],
-      "status": "processing",
-      "set1": "",
-      "set2": "",
-      "set3": "",
+      "status": "complete",
+      "set1": "5-9",
+      "set2": "0-0",
+      "set3": "0-0",
+      "finalplayer":24,
       "id": 8
     },
     {
       "datacreate": "19/9/2023",
       "datasfida": "28/09/2023",
-      "orasfida":"",
+      "orasfida": "18.00",
       "players": [
         {
           "idp1": 5,
@@ -739,12 +748,13 @@
       "set1": "",
       "set2": "",
       "set3": "",
+      "finalplayer":null,
       "id": 9
     },
     {
       "datacreate": "19/9/2023",
       "datasfida": "25/09/2023",
-      "orasfida":"",
+      "orasfida": "20.30",
       "players": [
         {
           "idp1": 7,
@@ -759,12 +769,13 @@
       "set1": "",
       "set2": "",
       "set3": "",
+      "finalplayer":null,
       "id": 10
     },
     {
       "datacreate": "20/09/2023",
       "datasfida": "25/09/2023",
-      "orasfida":"",
+      "orasfida": "22.30",
       "players": [
         {
           "idp1": 12,
@@ -779,12 +790,13 @@
       "set1": "",
       "set2": "",
       "set3": "",
+      "finalplayer":null,
       "id": 11
     },
     {
       "datacreate": "20/09/2023",
-      "datasfida": "",
-      "orasfida":"",
+      "datasfida": "26/09/2023",
+      "orasfida": "16.00",
       "players": [
         {
           "idp1": 22,
@@ -799,7 +811,71 @@
       "set1": "",
       "set2": "",
       "set3": "",
+      "finalplayer":null,
       "id": 12
+    },
+    {
+      "datacreate": "22/09/2023",
+      "datasfida": "23/09/2023",
+      "orasfida": "",
+      "players": [
+        {
+          "idp1": 37,
+          "p1": "Michele Buonaguro"
+        },
+        {
+          "idp2": 32,
+          "p2": "Martina Veneruso"
+        }
+      ],
+      "status": "cancel",
+      "set1": "",
+      "set2": "",
+      "set3": "",
+      "finalplayer":37,
+      "id": 13
+    },
+    {
+      "datacreate": "23/09/2023",
+      "datasfida": "",
+      "orasfida": "",
+      "players": [
+        {
+          "idp1": 16,
+          "p1": "Carmine meo "
+        },
+        {
+          "idp2": 8,
+          "p2": "Lerio carbone"
+        }
+      ],
+      "status": "pending",
+      "set1": "",
+      "set2": "",
+      "set3": "",
+      "finalplayer":null,
+      "id": 14
+    },
+    {
+      "datacreate": "23/09/2023",
+      "datasfida": "",
+      "orasfida": "",
+      "players": [
+        {
+          "idp1": 17,
+          "p1": "Salvatore Minieri"
+        },
+        {
+          "idp2": 15,
+          "p2": "Mirko Menna"
+        }
+      ],
+      "status": "pending",
+      "set1": "",
+      "set2": "",
+      "set3": "",
+      "finalplayer":null,
+      "id": 15
     }
   ]
 }
