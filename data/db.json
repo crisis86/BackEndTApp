@@ -543,6 +543,15 @@
       "nameuser": "admin@admin.it",
       "visible": true,
       "id": 2
+    },
+    {
+      "title": "Nuovo Post",
+      "descrizione": "test",
+      "datapost": "26/9/2023, 16:41:03",
+      "iduser": 1,
+      "nameuser": "admin@admin.it",
+      "visible": true,
+      "id": 3
     }
   ],
   "roleaccess": [
