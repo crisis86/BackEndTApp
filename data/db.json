@@ -11,14 +11,14 @@
       "password": "matrix",
       "name": "Admin Admin",
       "phone": "132123123",
-      "country": "india",
+      "country": "Italia",
       "role": "admin",
-      "address": "fatt e fatt tuoi\n23",
+      "address": "",
       "gender": "male",
       "posizione": 0,
       "insfida": false,
       "fuorigioco": true,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 1
     },
     {
@@ -33,7 +33,7 @@
       "posizione": 1,
       "insfida": true,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 2
     },
     {
@@ -45,10 +45,10 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 5,
-      "insfida": true,
+      "posizione": 6,
+      "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 3
     },
     {
@@ -60,10 +60,10 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 6,
+      "posizione": 8,
       "insfida": false,
       "fuorigioco": true,
-      "datafuorigioco":"17/09/2023",
+      "datafuorigioco": "5/10/2023",
       "id": 4
     },
     {
@@ -75,10 +75,10 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 2,
-      "insfida": true,
+      "posizione": 5,
+      "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 5
     },
     {
@@ -90,10 +90,10 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 8,
-      "insfida": true,
+      "posizione": 9,
+      "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 6
     },
     {
@@ -105,10 +105,10 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 4,
-      "insfida": false,
+      "posizione": 3,
+      "insfida": true,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 7
     },
     {
@@ -120,10 +120,10 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 9,
-      "insfida": true,
+      "posizione": 10,
+      "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 8
     },
     {
@@ -135,10 +135,10 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 3,
+      "posizione": 2,
       "insfida": true,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 9
     },
     {
@@ -150,10 +150,10 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 11,
+      "posizione": 12,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 10
     },
     {
@@ -168,7 +168,7 @@
       "posizione": 13,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 11
     },
     {
@@ -180,10 +180,10 @@
       "role": "player",
       "address": "sdsdsd",
       "gender": "male",
-      "posizione": 15,
+      "posizione": 16,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 12
     },
     {
@@ -195,10 +195,10 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 12,
+      "posizione": 11,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 13
     },
     {
@@ -213,7 +213,7 @@
       "posizione": 14,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 14
     },
     {
@@ -225,10 +225,10 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 16,
+      "posizione": 17,
       "insfida": false,
       "fuorigioco": true,
-      "datafuorigioco":"24/09/2023",
+      "datafuorigioco": "5/10/2023",
       "id": 15
     },
     {
@@ -241,9 +241,9 @@
       "address": "",
       "gender": "male",
       "posizione": 7,
-      "insfida": false,
+      "insfida": true,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 16
     },
     {
@@ -255,10 +255,10 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 17,
+      "posizione": 15,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 17
     },
     {
@@ -273,7 +273,7 @@
       "posizione": 18,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 18
     },
     {
@@ -288,7 +288,7 @@
       "posizione": 19,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 19
     },
     {
@@ -303,7 +303,7 @@
       "posizione": 20,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 20
     },
     {
@@ -318,7 +318,7 @@
       "posizione": 21,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 21
     },
     {
@@ -330,10 +330,10 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 10,
-      "insfida": true,
+      "posizione": 4,
+      "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 22
     },
     {
@@ -345,10 +345,10 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 23,
+      "posizione": 24,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 23
     },
     {
@@ -363,7 +363,7 @@
       "posizione": 22,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 24
     },
     {
@@ -375,25 +375,25 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 24,
+      "posizione": 25,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 25
     },
     {
       "email": "silvestrini.antonio97@gmail.com",
       "password": "123456",
-      "name": "Antonio Silvestri",
+      "name": "Antonio Silvestrini",
       "phone": "3339526462",
       "country": "Italia",
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 25,
+      "posizione": 23,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 26
     },
     {
@@ -408,7 +408,7 @@
       "posizione": 27,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 27
     },
     {
@@ -423,7 +423,7 @@
       "posizione": 28,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 28
     },
     {
@@ -435,10 +435,10 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 30,
+      "posizione": 31,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 29
     },
     {
@@ -453,7 +453,7 @@
       "posizione": 26,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 30
     },
     {
@@ -465,10 +465,10 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 31,
+      "posizione": 30,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 31
     },
     {
@@ -483,7 +483,7 @@
       "posizione": 29,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 32
     },
     {
@@ -498,7 +498,7 @@
       "posizione": 32,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 34
     },
     {
@@ -513,7 +513,7 @@
       "posizione": 33,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 35
     },
     {
@@ -528,7 +528,7 @@
       "posizione": 34,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 36
     },
     {
@@ -540,10 +540,10 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 36,
+      "posizione": 35,
       "insfida": false,
       "fuorigioco": false,
-      "datafuorigioco":"",
+      "datafuorigioco": "",
       "id": 37
     },
     {
@@ -555,11 +555,86 @@
       "role": "player",
       "address": "via madonna delle grazie 120",
       "gender": "male",
-      "posizione": 35,
+      "posizione": 36,
       "insfida": false,
       "fuorigioco": true,
-      "datafuorigioco":"24/09/2023",
+      "datafuorigioco": "5/10/2023",
       "id": 38
+    },
+    {
+      "email": "danielescotti@hotmail.it",
+      "password": "123456",
+      "name": "Daniele Scotti",
+      "phone": "3334885564",
+      "country": "Italia",
+      "role": "player",
+      "address": "",
+      "gender": "male",
+      "posizione": 37,
+      "insfida": false,
+      "fuorigioco": false,
+      "datafuorigioco": "",
+      "id": 39
+    },
+    {
+      "email": "castaldoascanio@gmail.com",
+      "password": "123456",
+      "name": "Castaldo Ascanio",
+      "phone": "3208707734",
+      "country": "Italia",
+      "role": "player",
+      "address": "",
+      "gender": "male",
+      "posizione": 38,
+      "insfida": false,
+      "fuorigioco": false,
+      "datafuorigioco": "",
+      "id": 40
+    },
+    {
+      "email": "felicegiannini@gmail.com",
+      "password": "123456",
+      "name": "Giannini Felice",
+      "phone": "347876463",
+      "country": "Italia",
+      "role": "player",
+      "address": "",
+      "gender": "male",
+      "posizione": 39,
+      "insfida": false,
+      "fuorigioco": false,
+      "datafuorigioco": "",
+      "id": 41
+    },
+    {
+      "email": "agostino.partinico@libero.it",
+      "password": "123456",
+      "name": "Partinico Agostino",
+      "phone": "123456",
+      "country": "Italia",
+      "role": "player",
+      "address": "",
+      "gender": "male",
+      "posizione": 40,
+      "insfida": false,
+      "fuorigioco": false,
+      "datafuorigioco": "",
+      "id": 42
+    },
+    {
+      "email": "arcangelobarbato1@gmail.com",
+      "password": "123456",
+      "name": "Barbato Arcangelo",
+      "phone": "3381821802",
+      "country": "Italia",
+      "role": "player",
+      "address": "",
+      "gender": "male",
+      "posizione": 41,
+      "insfida": false,
+      "fuorigioco": false,
+      "datafuorigioco": "",
+      "id": 43
     }
   ],
   "post": [
@@ -790,11 +865,11 @@
           "p2": "Davide Alfieri"
         }
       ],
-      "status": "processing",
-      "set1": "",
-      "set2": "",
-      "set3": "",
-      "finalplayer": null,
+      "status": "complete",
+      "set1": "1-6",
+      "set2": "0-0",
+      "set3": "0-0",
+      "finalplayer": 2,
       "id": 9
     },
     {
@@ -967,7 +1042,7 @@
     },
     {
       "datacreate": "26/09/2023",
-      "datasfida": "29/09/2023",
+      "datasfida": "02/10/2023",
       "orasfida": "18.00",
       "players": [
         {
@@ -979,16 +1054,16 @@
           "p2": "Antonio Casciello"
         }
       ],
-      "status": "processing",
-      "set1": "",
-      "set2": "",
-      "set3": "",
-      "finalplayer": null,
+      "status": "complete",
+      "set1": "1-9",
+      "set2": "0-0",
+      "set3": "0-0",
+      "finalplayer": 9,
       "id": 18
     },
     {
       "datacreate": "26/09/2023",
-      "datasfida": "",
+      "datasfida": "30/09/2023",
       "orasfida": "",
       "players": [
         {
@@ -1000,12 +1075,117 @@
           "p2": "Vittorio Ambrosio"
         }
       ],
-      "status": "pending",
+      "status": "complete",
+      "set1": "7-4",
+      "set2": "0-0",
+      "set3": "0-0",
+      "finalplayer": 22,
+      "id": 19
+    },
+    {
+      "datacreate": "27/09/2023",
+      "datasfida": "09/10/2023",
+      "orasfida": "19.00",
+      "players": [
+        {
+          "idp1": 16,
+          "p1": "Carmine meo "
+        },
+        {
+          "idp2": 7,
+          "p2": "ruggiero Campanella"
+        }
+      ],
+      "status": "processing",
       "set1": "",
       "set2": "",
       "set3": "",
       "finalplayer": null,
-      "id": 19
+      "id": 20
+    },
+    {
+      "datacreate": "27/09/2023",
+      "datasfida": "28/09/2023",
+      "orasfida": "21.00",
+      "players": [
+        {
+          "idp1": 29,
+          "p1": "Amedeo Tortora "
+        },
+        {
+          "idp2": 26,
+          "p2": "Antonio Silvestri"
+        }
+      ],
+      "status": "complete",
+      "set1": "1-9",
+      "set2": "0-0",
+      "set3": "0-0",
+      "finalplayer": 26,
+      "id": 21
+    },
+    {
+      "datacreate": "29/09/2023",
+      "datasfida": "02/10/2023",
+      "orasfida": "",
+      "players": [
+        {
+          "idp1": 17,
+          "p1": "Salvatore Minieri"
+        },
+        {
+          "idp2": 10,
+          "p2": "Pasquale castaldo"
+        }
+      ],
+      "status": "cancel",
+      "set1": "",
+      "set2": "",
+      "set3": "",
+      "finalplayer": 10,
+      "id": 22
+    },
+    {
+      "datacreate": "02/10/2023",
+      "datasfida": "11/10/2023",
+      "orasfida": "17.00",
+      "players": [
+        {
+          "idp1": 9,
+          "p1": "Antonio Casciello "
+        },
+        {
+          "idp2": 2,
+          "p2": "Davide Alfieri"
+        }
+      ],
+      "status": "processing",
+      "set1": "",
+      "set2": "",
+      "set3": "",
+      "finalplayer": null,
+      "id": 23
+    },
+    {
+      "datacreate": "02/10/2023",
+      "datasfida": "05/10/2023",
+      "orasfida": "",
+      "players": [
+        {
+          "idp1": 22,
+          "p1": "Giuseppe Russo"
+        },
+        {
+          "idp2": 5,
+          "p2": "Felice Biancardi"
+        }
+      ],
+      "status": "cancel",
+      "set1": "",
+      "set2": "",
+      "set3": "",
+      "finalplayer": 5,
+      "id": 24
     }
   ]
 }
