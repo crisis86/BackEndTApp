@@ -13,12 +13,14 @@
       "phone": "132123123",
       "country": "Italia",
       "role": "admin",
-      "address": "",
+      "address": "ciao",
       "gender": "male",
       "posizione": 0,
       "insfida": false,
       "fuorigioco": true,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 1
     },
     {
@@ -31,9 +33,11 @@
       "address": "",
       "gender": "male",
       "posizione": 1,
-      "insfida": true,
+      "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 2
     },
     {
@@ -49,6 +53,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 3
     },
     {
@@ -60,10 +66,12 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 8,
+      "posizione": 10,
       "insfida": false,
       "fuorigioco": true,
-      "datafuorigioco": "1/10/2023",
+      "datafuorigioco": "11/10/2023",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 4
     },
     {
@@ -79,6 +87,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 5
     },
     {
@@ -90,10 +100,12 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 9,
+      "posizione": 7,
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 6
     },
     {
@@ -105,10 +117,12 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 3,
-      "insfida": true,
+      "posizione": 2,
+      "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 7
     },
     {
@@ -120,10 +134,12 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 10,
+      "posizione": 9,
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 8
     },
     {
@@ -135,10 +151,12 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 2,
-      "insfida": true,
+      "posizione": 3,
+      "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 9
     },
     {
@@ -154,6 +172,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 10
     },
     {
@@ -169,6 +189,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 11
     },
     {
@@ -184,6 +206,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 12
     },
     {
@@ -199,6 +223,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 13
     },
     {
@@ -214,6 +240,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 14
     },
     {
@@ -225,10 +253,12 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 17,
+      "posizione": 19,
       "insfida": false,
       "fuorigioco": true,
-      "datafuorigioco": "1/10/2023",
+      "datafuorigioco": "11/10/2023",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 15
     },
     {
@@ -240,10 +270,12 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 7,
-      "insfida": true,
+      "posizione": 8,
+      "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 16
     },
     {
@@ -259,6 +291,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 17
     },
     {
@@ -270,10 +304,12 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 18,
+      "posizione": 17,
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 18
     },
     {
@@ -285,10 +321,12 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 19,
+      "posizione": 18,
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 19
     },
     {
@@ -304,6 +342,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 20
     },
     {
@@ -319,6 +359,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 21
     },
     {
@@ -334,6 +376,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 22
     },
     {
@@ -349,6 +393,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 23
     },
     {
@@ -364,6 +410,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 24
     },
     {
@@ -379,6 +427,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 25
     },
     {
@@ -394,6 +444,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 26
     },
     {
@@ -406,9 +458,11 @@
       "address": "",
       "gender": "male",
       "posizione": 27,
-      "insfida": false,
+      "insfida": true,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 27
     },
     {
@@ -424,6 +478,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 28
     },
     {
@@ -439,6 +495,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 29
     },
     {
@@ -454,6 +512,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 30
     },
     {
@@ -469,6 +529,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 31
     },
     {
@@ -484,6 +546,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 32
     },
     {
@@ -499,6 +563,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 34
     },
     {
@@ -514,6 +580,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 35
     },
     {
@@ -529,6 +597,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 36
     },
     {
@@ -541,9 +611,11 @@
       "address": "",
       "gender": "male",
       "posizione": 35,
-      "insfida": false,
+      "insfida": true,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 37
     },
     {
@@ -555,10 +627,12 @@
       "role": "player",
       "address": "via madonna delle grazie 120",
       "gender": "male",
-      "posizione": 36,
+      "posizione": 38,
       "insfida": false,
       "fuorigioco": true,
-      "datafuorigioco": "1/10/2023",
+      "datafuorigioco": "11/10/2023",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 38
     },
     {
@@ -570,10 +644,12 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 37,
+      "posizione": 36,
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 39
     },
     {
@@ -585,10 +661,12 @@
       "role": "player",
       "address": "",
       "gender": "male",
-      "posizione": 38,
+      "posizione": 37,
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 40
     },
     {
@@ -604,6 +682,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 41
     },
     {
@@ -619,6 +699,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 42
     },
     {
@@ -634,6 +716,8 @@
       "insfida": false,
       "fuorigioco": false,
       "datafuorigioco": "",
+      "codiceclub": "DM00",
+      "club": "L. De Mita Nola",
       "id": 43
     }
   ],
@@ -645,6 +729,7 @@
       "iduser": 1,
       "nameuser": "admin@admin.it",
       "visible": true,
+      "codiceclub": "DM00",
       "id": 1
     },
     {
@@ -654,6 +739,7 @@
       "iduser": 1,
       "nameuser": "admin@admin.it",
       "visible": true,
+      "codiceclub": "DM00",
       "id": 2
     },
     {
@@ -663,7 +749,18 @@
       "iduser": 1,
       "nameuser": "admin@admin.it",
       "visible": true,
+      "codiceclub": "DM00",
       "id": 3
+    },
+    {
+      "title": "Nuovo Post",
+      "descrizione": "dasdsad",
+      "datapost": "10/10/2023, 16:24:26",
+      "iduser": 1,
+      "nameuser": "admin@admin.it",
+      "visible": true,
+      "codiceclub": "DM00",
+      "id": 4
     }
   ],
   "roleaccess": [
@@ -702,6 +799,7 @@
       "set2": "0-0",
       "set3": "0-0",
       "finalplayer": null,
+      "codiceclub": "DM00",
       "id": 1
     },
     {
@@ -723,6 +821,7 @@
       "set2": "3-6",
       "set3": "0-0",
       "finalplayer": 37,
+      "codiceclub": "DM00",
       "id": 2
     },
     {
@@ -744,6 +843,7 @@
       "set2": "0-0",
       "set3": "0-0",
       "finalplayer": 5,
+      "codiceclub": "DM00",
       "id": 3
     },
     {
@@ -765,6 +865,7 @@
       "set2": "0-6",
       "set3": "0-0",
       "finalplayer": 22,
+      "codiceclub": "DM00",
       "id": 4
     },
     {
@@ -786,6 +887,7 @@
       "set2": "0-0",
       "set3": "0-0",
       "finalplayer": 9,
+      "codiceclub": "DM00",
       "id": 5
     },
     {
@@ -807,6 +909,7 @@
       "set2": "0-0",
       "set3": "0-0",
       "finalplayer": 17,
+      "codiceclub": "DM00",
       "id": 6
     },
     {
@@ -828,6 +931,7 @@
       "set2": "2-3",
       "set3": "0-0",
       "finalplayer": 22,
+      "codiceclub": "DM00",
       "id": 7
     },
     {
@@ -849,6 +953,7 @@
       "set2": "0-0",
       "set3": "0-0",
       "finalplayer": 24,
+      "codiceclub": "DM00",
       "id": 8
     },
     {
@@ -870,6 +975,7 @@
       "set2": "0-0",
       "set3": "0-0",
       "finalplayer": 2,
+      "codiceclub": "DM00",
       "id": 9
     },
     {
@@ -891,6 +997,7 @@
       "set2": "0-0",
       "set3": "0-0",
       "finalplayer": 7,
+      "codiceclub": "DM00",
       "id": 10
     },
     {
@@ -912,6 +1019,7 @@
       "set2": "0-0",
       "set3": "0-0",
       "finalplayer": 9,
+      "codiceclub": "DM00",
       "id": 11
     },
     {
@@ -933,6 +1041,7 @@
       "set2": "6-0",
       "set3": "6-0",
       "finalplayer": 22,
+      "codiceclub": "DM00",
       "id": 12
     },
     {
@@ -954,6 +1063,7 @@
       "set2": "",
       "set3": "",
       "finalplayer": 37,
+      "codiceclub": "DM00",
       "id": 13
     },
     {
@@ -975,6 +1085,7 @@
       "set2": "",
       "set3": "",
       "finalplayer": null,
+      "codiceclub": "DM00",
       "id": 14
     },
     {
@@ -996,6 +1107,7 @@
       "set2": "",
       "set3": "",
       "finalplayer": null,
+      "codiceclub": "DM00",
       "id": 15
     },
     {
@@ -1017,6 +1129,7 @@
       "set2": "0-0",
       "set3": "0-0",
       "finalplayer": 30,
+      "codiceclub": "DM00",
       "id": 16
     },
     {
@@ -1059,6 +1172,7 @@
       "set2": "0-0",
       "set3": "0-0",
       "finalplayer": 9,
+      "codiceclub": "DM00",
       "id": 18
     },
     {
@@ -1080,6 +1194,7 @@
       "set2": "0-0",
       "set3": "0-0",
       "finalplayer": 22,
+      "codiceclub": "DM00",
       "id": 19
     },
     {
@@ -1096,11 +1211,12 @@
           "p2": "ruggiero Campanella"
         }
       ],
-      "status": "processing",
-      "set1": "",
-      "set2": "",
-      "set3": "",
-      "finalplayer": null,
+      "status": "complete",
+      "set1": "6-9",
+      "set2": "0-0",
+      "set3": "0-0",
+      "finalplayer": 7,
+      "codiceclub": "DM00",
       "id": 20
     },
     {
@@ -1122,6 +1238,7 @@
       "set2": "0-0",
       "set3": "0-0",
       "finalplayer": 26,
+      "codiceclub": "DM00",
       "id": 21
     },
     {
@@ -1143,11 +1260,12 @@
       "set2": "",
       "set3": "",
       "finalplayer": 10,
+      "codiceclub": "DM00",
       "id": 22
     },
     {
       "datacreate": "02/10/2023",
-      "datasfida": "11/10/2023",
+      "datasfida": "09/10/2023",
       "orasfida": "17.00",
       "players": [
         {
@@ -1159,11 +1277,12 @@
           "p2": "Davide Alfieri"
         }
       ],
-      "status": "processing",
+      "status": "cancel",
       "set1": "",
       "set2": "",
       "set3": "",
-      "finalplayer": null,
+      "finalplayer": 2,
+      "codiceclub": "DM00",
       "id": 23
     },
     {
@@ -1185,7 +1304,52 @@
       "set2": "",
       "set3": "",
       "finalplayer": 5,
+      "codiceclub": "DM00",
       "id": 24
+    },
+    {
+      "datacreate": "10/10/2023",
+      "datasfida": "11/10/2023",
+      "orasfida": "14.00",
+      "players": [
+        {
+          "idp1": 37,
+          "p1": "Michele Buonaguro"
+        },
+        {
+          "idp2": 27,
+          "p2": "Sergio tarantino"
+        }
+      ],
+      "status": "cancel",
+      "set1": "",
+      "set2": "",
+      "set3": "",
+      "finalplayer": 37,
+      "codiceclub": "DM00",
+      "id": 25
+    },
+    {
+      "datacreate": "13/10/2023",
+      "datasfida": "13/10/2023",
+      "orasfida": "20.00",
+      "players": [
+        {
+          "idp1": 16,
+          "p1": "Carmine meo "
+        },
+        {
+          "idp2": 9,
+          "p2": "Antonio Casciello"
+        }
+      ],
+      "status": "processing",
+      "set1": "",
+      "set2": "",
+      "set3": "",
+      "finalplayer": null,
+      "codiceclub": "DM00",
+      "id": 26
     }
   ]
 }
